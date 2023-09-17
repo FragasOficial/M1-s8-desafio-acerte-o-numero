@@ -1,0 +1,25 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&family=Inconsolata:wght@300&family=Sen&display=swap');
+
+body{
+    font-family: 'Charmonman', cursive;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Sen', sans-serif;
+    font-size: large;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(161, 161, 161);
+    justify-content: center;
+    display: flex;
+}
+
+p{
+    width: 1000px;
+    height: 800px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border-radius: 10px;
+}
